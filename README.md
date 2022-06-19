@@ -1,3 +1,3 @@
-# Merged
+# Merged ResultBuilder
 
-A description of this package.
+A showcase of how result builders work, and where we can use them.
